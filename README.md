@@ -12,3 +12,13 @@ This is a Python-based automation script designed to streamline website quality 
 
 ---
 *Developed by Atijoro Ewoma as part of a professional QA Portfolio.*
+
+### 📂 Featured Projects
+
+#### 1. [Web Health & QA Monitor](https://github.com/Maxino5/Maxino5)
+- Automated tool to detect broken links (404s) and site uptime.
+- **Tech:** Python, BeautifulSoup.
+
+#### 2. [Web Data Scraper](https://github.com/Maxino5/Web-Data-Scraper)
+- Scrapes product titles and prices from e-commerce sites into CSV/Excel format.
+- **Tech:** Python, Pandas, BeautifulSoup.
