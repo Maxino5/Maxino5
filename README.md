@@ -1,24 +1,36 @@
-# 🚀 Web Health & QA Automation Tool
-This is a Python-based automation script designed to streamline website quality assurance.
+# Hi, I'm Atijoro Ewoma! 👋
+**Computer Science Graduate | QA Automation & Python Developer**
 
-### 🛠️ What it does:
-- **Uptime Verification:** Checks if a target URL is live (HTTP 200).
-- **Automated Link Scanning:** Parses HTML to find all internal/external links.
-- **Bug Detection:** Identifies "Broken Links" (HTTP 404) automatically, saving hours of manual testing.
-
-### 🧪 Technical Stack:
-- **Python 3.14**
-- **Libraries:** `Requests` (for HTTP handling), `BeautifulSoup4` (for web scraping).
+I am a detail-oriented Computer Science graduate passionate about building tools that improve web reliability, data accessibility, and digital security. Currently focusing on **QA Automation** and **Backend Scripting**.
 
 ---
-*Developed by Atijoro Ewoma as part of a professional QA Portfolio.*
+
+### 🛠️ Technical Toolkit
+- **Languages:** Python 3.14, SQL
+- **Automation/QA:** Requests, BeautifulSoup4, SMTP protocol
+- **Data:** Pandas, CSV/Excel manipulation, Regex
+
+---
 
 ### 📂 Featured Projects
 
-#### 1. [Web Health & QA Monitor](https://github.com/Maxino5/Maxino5)
-- Automated tool to detect broken links (404s) and site uptime.
-- **Tech:** Python, BeautifulSoup.
+#### 🛡️ [Web QA Automation Monitor](https://github.com/Maxino5/Web-QA-Automation-monitor)
+Automates website health checks by scanning URLs for "Dead Links" (404 errors) and ensuring site uptime.
 
-#### 2. [Web Data Scraper](https://github.com/Maxino5/Web-Data-Scraper)
-- Scrapes product titles and prices from e-commerce sites into CSV/Excel format.
-- **Tech:** Python, Pandas, BeautifulSoup.
+#### 📊 [Web Data Scraper](https://github.com/Maxino5/Web-Data-scraper)
+Extracts product information from e-commerce sites, cleans the data, and exports it to CSV format.
+
+#### 🔐 [Password Strength Tester](https://github.com/Maxino5/Password_Strength_Tester)
+Evaluates password complexity using Regular Expressions (Regex) against industry security standards.
+
+#### ✉️ [Auto Emailer System](https://github.com/Maxino5/Auto-Emailer)
+An automation script for business communications that handles SMTP protocols to send personalized reports.
+
+---
+
+### 📈 GitHub Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxino5&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- **Email:** Atijoro98@gmail.com
+- **Role Interest:** Open to Remote QA, Technical Support, and Junior Developer roles.
